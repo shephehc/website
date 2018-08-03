@@ -26,6 +26,42 @@ nav {
 .header-format-main {
     width: 100%;
     padding: 1%;
-    margin: 1%;
+    margin-top: 5%;
     min-height: 50px;
+}
+.about-section{
+
+}
+
+
+.bio {
+    /* margin-top: 4%; */
+    text-align: left;
+    margin-left: 27%;
+    font-size: 40px;
+    font-family: monospace;
+    text-decoration: underline;
+}
+
+
+
+.bio-paragraph {
+    left: 44%;
+    /* border-left-color: grey; */
+    /* border-left-width: 1px; */
+    /* border-left-style: solid; */
+    /* margin-right: 27%; */
+    border-right-color: grey;
+    border-right-width: 1px;
+    border-right-style: solid;
+    position: absolute;
+    width: 30%;
+    /* top: -200px; */
+}
+
+#bio-pic {
+    text-align: left;
+    left: 27%;
+    position: absolute;
+    width: 15%;
 }
