@@ -29,10 +29,6 @@ nav {
     margin-top: 5%;
     min-height: 50px;
 }
-.about-section{
-
-}
-
 
 .bio {
     /* margin-top: 4%; */
@@ -43,7 +39,10 @@ nav {
     text-decoration: underline;
 }
 
-
+.first-intro {
+    margin: auto;
+    width: 60%;
+}
 
 .bio-paragraph {
     left: 44%;
@@ -64,4 +63,87 @@ nav {
     left: 27%;
     position: absolute;
     width: 15%;
+}
+
+.index-head {
+    text-align: center;
+    font-family: monospace;
+    margin-top: 80px;
+}
+
+.intro-paragraph {
+    margin: auto;
+    width: 75%;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 2;
+    color: grey;
+}
+
+.services-main-left {
+    /* margin: auto; */
+    /* width: 60%; */
+    text-align: center;
+    font-family: monospace;
+    /* margin-top: 80px; */
+    left: 9%;
+    width: 42%;
+    /* margin-left: 10px; */
+    margin-right: 0;
+    position: absolute;
+    top: 22%;
+}
+
+.services-main-right {
+    /* margin: auto; */
+    /* width: 60%; */
+    text-align: center;
+    font-family: monospace;
+    /* margin-top: 80px; */
+    right: 9%;
+    width: 42%;
+    /* margin-left: 10px; */
+    margin-right: 0;
+    position: absolute;
+    top: 22%;
+}
+
+.services-header-right {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    font-family: monospace;
+    margin-top: 80px;
+}
+.services-header-left {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    font-family: monospace;
+    margin-top: 80px;
+}
+
+.services-paragraph-left {
+    margin: auto;
+    width: 75%;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 2;
+    color: grey;
+}
+
+.services-paragraph-right {
+    margin: auto;
+    width: 75%;
+    font-family: monospace;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 2;
+    color: grey;
+}
+
+.email-link {
+    color: gray;
 }
